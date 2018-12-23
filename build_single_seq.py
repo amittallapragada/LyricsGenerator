@@ -4,7 +4,7 @@ import string
 from collections import defaultdict
 import seaborn as sns
 import matplotlib.pyplot as plt
-print("working...")
+print("working....")
 df = pd.read_pickle('lyrics.pkl', compression='gzip')
 
 genres = ['Pop', 'Indie', 'Jazz', 'Rock']
