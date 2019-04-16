@@ -8,6 +8,8 @@ Link to Presentation Slides: https://docs.google.com/presentation/d/13mypnP4BaeU
 
 Link to Paper: https://www.overleaf.com/read/zcmnqwtdkcpp (PDF version is in the repo)
 
+Code Demo: https://colab.research.google.com/drive/1mOsxgwx9MlUz_pQodmkFqsQX10bthkXY (model weights referenced in demo can be found in this repo)
+
 ## Shoutouts:
 Huge thanks to [@Adit](https://github.com/adeshpande3) and [@Arvind]( https://github.com/arvindsankar) for helping me understand some of the theoretical aspects of this project. 
 
