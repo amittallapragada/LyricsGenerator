@@ -1,1 +1,3 @@
 /thesis.egg-info
+*.pyc
+.0
